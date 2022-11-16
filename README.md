@@ -1,7 +1,5 @@
 # Remix Grunge Stack
 
-![The Remix Grunge Stack](https://repository-images.githubusercontent.com/463325363/edae4f5b-1a13-47ea-b90c-c05badc2a700)
-
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
 ```
